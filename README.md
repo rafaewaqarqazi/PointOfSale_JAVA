@@ -1,0 +1,1 @@
+Point of sale system, using java swing and MySql database
